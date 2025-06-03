@@ -22,7 +22,7 @@ body {
 .hero-details {
     display: flex;
     justify-content: space-between;
-    width: 80px;
+    width: 80%;
     margin-top: 20px;
     background-color: #fffde7;
     padding: 20px;
