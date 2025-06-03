@@ -4,7 +4,7 @@ const heroes = [
         lastName: "Kowalski", 
         age: 30, 
         weight: 75, 
-        image: "https://via.placeholder.com/150", // Przykładowe zdjęcie
+        image: "images/1._pokemon.png", // Przykładowe zdjęcie
         description: "Bohater, który walczy o sprawiedliwość."
     },
     { 
