@@ -15,7 +15,7 @@ body {
 }
 
 .hero-image {
-    width: 150px;
+    width: 200px;
     height: auto;
 }
 
@@ -39,7 +39,7 @@ body {
 .right-column {
     width: 50%;
     border: solid 2px;
-    text-align: right;
+    text-align: center; /* Wyrównanie textu do środka */
     background-color: #e0f7fa;
     box-sizing: content-box;
 }
