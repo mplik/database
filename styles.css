@@ -29,9 +29,20 @@ body {
     border-radius: 8px;
 }
 
-.left-column, .right-column {
-    width: 45%; /*Ustawia szerokość column */
+.left-column {
+    width: 50%; /*Ustawia szerokość column */
+    border: solid 2px; /* Obramowanie kolumny */
     text-align: left; /*Wyrównanie textu do lewej */
+    background-color: #fffde7;
+    box-sizing: content-box; /* Uwzględnia padding */
+}
+
+.right-column {
+    width: 50%;
+    border: solid 2px;
+    text-align: right;
+    background-color: aquamarine;
+    box-sizing: content-box;
 }
 
 button {
