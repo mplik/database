@@ -30,6 +30,14 @@ const heroes = [
         weight: 55, 
         image: "https://github.com/mplik/database/blob/main/images/4._pokemon.png?raw=true", // Przykładowe zdjęcie
         description: "Niezwykła strateg i lider."
+    },
+     { 
+        firstName: "Worek", 
+        lastName: "Śmiechu", 
+        age: 30, 
+        weight: 25, 
+        image: "https://github.com/mplik/database/blob/main/images/5._pokemon.png?raw=true", // Przykładowe zdjęcie
+        description: "Mistrz w kręceniu hula-hoop."
     }
 ];
 
