@@ -12,7 +12,7 @@ const heroes = [
         lastName: "Nowak", 
         age: 25, 
         weight: 60, 
-        image: "https://via.placeholder.com/150", // Przykładowe zdjęcie
+        image: "https://github.com/mplik/database/blob/main/images/2._pokemon.png?raw=true", // Przykładowe zdjęcie
         description: "Twarda i niezłomna obrończyni."
     },
     { 
@@ -20,7 +20,7 @@ const heroes = [
         lastName: "Zalewski", 
         age: 28, 
         weight: 80, 
-        image: "https://via.placeholder.com/150", // Przykładowe zdjęcie
+        image: "https://github.com/mplik/database/blob/main/images/3._pokemon.png?raw=true", // Przykładowe zdjęcie
         description: "Mistrz sztuk walki."
     },
     { 
@@ -28,7 +28,7 @@ const heroes = [
         lastName: "Wiśniewska", 
         age: 22, 
         weight: 55, 
-        image: "https://via.placeholder.com/150", // Przykładowe zdjęcie
+        image: "https://github.com/mplik/database/blob/main/images/4._pokemon.png?raw=true", // Przykładowe zdjęcie
         description: "Niezwykła strateg i lider."
     }
 ];
