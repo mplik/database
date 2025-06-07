@@ -61,6 +61,10 @@ button.hover {
 
 /* Responsywność dla urządzeń mobilnych */
 @media (max-width: 600px) {
+    body {
+        background-color: #c0c6c8; /* Lekko beżowe tło */
+    }
+
     .hero-details {
         flex-direction: column;
         width: 100%;
