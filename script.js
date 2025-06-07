@@ -52,8 +52,8 @@ const heroes = [
         lastName: "Sis", 
         age: 18, 
         weight: 45, 
-        image: "https://github.com/mplik/database/blob/main/images/20250604_070048_0000.png?raw=true", // Przykładowe zdjęcie
-        description: "Mistrz w kręceniu hula-hoop."
+        image: "https://github.com/mplik/database/blob/main/images/little_star.png?raw=true", // Przykładowe zdjęcie
+        description: "Mała gwiazdka o durzym sercu."
     }
 ];
 
