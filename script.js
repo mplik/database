@@ -53,7 +53,7 @@ const heroes = [
         age: 18, 
         weight: 45, 
         image: "https://github.com/mplik/database/blob/main/images/little_star.png?raw=true", // Przykładowe zdjęcie
-        description: "Mała gwiazdka o durzym sercu."
+        description: "Mała gwiazdka o dużym sercu."
     }
 ];
 
