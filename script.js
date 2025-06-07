@@ -38,6 +38,22 @@ const heroes = [
         weight: 25, 
         image: "https://github.com/mplik/database/blob/main/images/5._pokemon.png?raw=true", // Przykładowe zdjęcie
         description: "Mistrz w kręceniu hula-hoop."
+    },
+     { 
+        firstName: "Juoi", 
+        lastName: "Sticki", 
+        age: 55, 
+        weight: 45, 
+        image: "https://github.com/mplik/database/blob/main/images/20250604_070048_0000.png?raw=true", // Przykładowe zdjęcie
+        description: "Mistrz w kręceniu hula-hoop."
+    },
+      { 
+        firstName: "Yo", 
+        lastName: "Sis", 
+        age: 18, 
+        weight: 45, 
+        image: "https://github.com/mplik/database/blob/main/images/20250604_070048_0000.png?raw=true", // Przykładowe zdjęcie
+        description: "Mistrz w kręceniu hula-hoop."
     }
 ];
 
